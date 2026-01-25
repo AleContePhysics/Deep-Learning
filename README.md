@@ -12,7 +12,7 @@ The objective is to implement a Wasserstein GAN, first tested on the MNIST datas
 *   **Report:** Work in progress. 
 
 ### Contents
-`WGAN_Analysis.ipynb`: Jupyter notebook containing the abstract,implementation, training scripts, and preliminary results.
+Jupyter notebook containing the abstract,implementation, training scripts, and results.
 
 ---
 *Last update: January 2026*
